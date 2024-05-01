@@ -1,0 +1,11 @@
+.table-container {
+  max-height: 550px; /* Adjust the max-height as needed */
+  overflow-y: auto;
+}
+
+.table thead th {
+  position: sticky;
+  top: 0;
+  background-color: #343a40; /* Adjust the background color as needed */
+  color: #fff; /* Adjust the text color as needed */
+}
